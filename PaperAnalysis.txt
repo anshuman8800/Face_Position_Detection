@@ -1,0 +1,28 @@
+A Fast Face Detection Method for JPEG Image
+
+Face detection is a key technology of face recognition, a fast face detection method based on JPEG image is proposed. 
+According to analyzing the feature of face image, the combination of reconstruction of low resolution image in the compressed domain and face detection in the pixel domain method is proposed. For JPEG image, we propose the
+reconstruction method of low resolution image by using few new coefficients.
+They compare Their method with conventional face detection in the pixel domain. The testing results show our method has high face detection precision while greatly improve the detection speed.
+->These methods can be generally classified into two categories: in the pixel domain and in the compressed domain.
+->By combining the feature in the compressed domain with the face detection in the pixel domain, we propose a fast face detection method of JPEG image.
+
+
+
+
+Rapid Face Detection and Annotation with Loosely Face Geometry
+->This paper focus on face detection with varying degree of face occlusion.
+->the devised algorithm aims to automatically detect face components individually and it starts from mostly un-occluded face component called Nose.
+->Nose is very hard to cover up without drawing suspicion.
+
+->Keeping nose component as a reference, algorithm search the surrounding area for other main facial features, if any. 
+->Once face parts qualify facial geometry, they are normalized and then algo works
+
+
+Face Movement Detection Using Template Matching
+->this paper will be purposed about face detection use template matching method on movement face.
+->new techinque :: this technique used is to determine the face region by separating the skin region to non-skin region.
+->The template matching method used the intercourse between the input image pattern and the referral face pattern along with its features.
+->Detected face area is dynamic
+->The face image model will show whether the skin is a face region, which will also produce coordinates of the face region
+
